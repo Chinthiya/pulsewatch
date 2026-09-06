@@ -349,7 +349,7 @@ Python 3.10 or later
 Node.js 18 or later
 npm
 1. Clone the Repository
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Chinthiya/pulsewatch
 cd pulsewatch
 2. Start the Backend
 
